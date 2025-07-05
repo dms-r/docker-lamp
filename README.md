@@ -142,5 +142,5 @@ docker-compose down -v --remove-orphans
 
 ### 👨‍💻 Author & License
 
-* Created by: **\[Your Name]**
+* Created by: **Dimas**
 * License: **MIT**
