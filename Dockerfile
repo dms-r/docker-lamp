@@ -11,3 +11,9 @@ RUN a2enmod rewrite
 
 # Set working directory
 WORKDIR /var/www/html
+
+# RUN apt-get update && apt-get install -y \ # If need
+#     libpng-dev \
+#     libjpeg-dev \
+#     libfreetype6-dev \
+#     && docker-php-ext-install gd mbstring curl
